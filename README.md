@@ -44,7 +44,7 @@ quantization_config = {
 
 ## 🔬 Advanced Techniques (Future Learning)
 
-This project is designed to evolve. Planned advanced techniques include:
+Soon i will be learning 
 
 - [ ] **LoRA (Low-Rank Adaptation)**: Parameter-efficient fine-tuning
 - [ ] **QLoRA**: Quantized LoRA for even more efficiency
@@ -52,6 +52,3 @@ This project is designed to evolve. Planned advanced techniques include:
 - [ ] **Model Pruning**: Removing redundant parameters
 - [ ] **Knowledge Distillation**: Teacher-student model training
 - [ ] **Dynamic Quantization**: Runtime quantization optimization
-
-# Ensure CUDA toolkit is installed
-pip install bitsandbytes --
